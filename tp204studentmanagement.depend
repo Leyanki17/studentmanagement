@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1528252108 source:e:\jord\mini-projet\program c etc++\tp204studentmanagement\departement.cpp
+	"preprocesseur.h"
+
+1528250283 seur.h"
+
+1528242744 source:e:\jord\mini-projet\program c etc++\tp204studentmanagement\etudiant.cpp
+	"preprocesseur.h"
+	"Etudiant.h"
+
+1528211177 h"
+
+1528243292 source:e:\jord\mini-projet\program c etc++\tp204studentmanagement\notes.cpp
+	"preprocesseur.h"
+
+1528252409 source:e:\jord\mini-projet\program c etc++\tp204studentmanagement\structure.cpp
+	"preprocesseur.h"
+	<sstream>
+
+1528177056 
+
+1528251080 source:e:\jord\mini-projet\program c etc++\tp204studentmanagement\main.cpp
+	"preprocesseur.h"
+
+1528243422 e:\jord\mini-projet\program c etc++\tp204studentmanagement\classe.h
+	"Etudiant.h"
+
+1528243422 source:e:\jord\mini-projet\program c etc++\tp204studentmanagement\classe.cpp
+	"preprocesseur.h"
+
+1528252389 e:\jord\mini-projet\program c etc++\tp204studentmanagement\preprocesseur.h
+	<iostream>
+	<string>
+	"helper.h"
+	"Departement.h"
+	"Classe.h"
+	"Etudiant.h"
+	"Matiere.h"
+	"Notes.h"
+	<cstdlib>
+	<fstream>
+
+1528249174 e:\jord\mini-projet\program c etc++\tp204studentmanagement\helper.h
+	"Classe.h"
+	"Etudiant.h"
+	"Matiere.h"
+	"Notes.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1528252146 e:\jord\mini-projet\program c etc++\tp204studentmanagement\departement.h
+	"fstream"
+
+1528242702 e:\jord\mini-projet\program c etc++\tp204studentmanagement\etudiant.h
+
+1528026931 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Classe.cpp
+	"preprocesseur.h"
+	"preprocesseur.h"
+	"preprocesseur.h"
+
+1528025184 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/preprocesseur.h
+	<iostream>
+	<string>
+	"helper.h"
+	"Departement.h"
+	"Classe.h"
+	"Etudiant.h"
+	<cstdlib>
+	<iostream>
+	<string>
+	"helper.h"
+	"Departement.h"
+	"Classe.h"
+	"Etudiant.h"
+	<cstdlib>
+	<iostream>
+	<string>
+	"helper.h"
+	"Departement.h"
+	"Classe.h"
+	"Etudiant.h"
+	"Matiere.h"
+	"Notes.h"
+	<cstdlib>
+
+1528177056 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/helper.h
+	"Classe.h"
+	<iostream>
+	<cstdlib>
+	"Classe.h"
+	<iostream>
+	<cstdlib>
+	"Classe.h"
+	"Etudiant.h"
+	"Matiere.h"
+	"Notes.h"
+	<iostream>
+	<cstdlib>
+
+1528026931 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Classe.h
+	"Etudiant.h"
+	"Etudiant.h"
+	"Etudiant.h"
+
+1528190161 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Etudiant.h
+
+1528202837 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Departement.h
+
+1528217127 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Departement.cpp
+	"preprocesseur.h"
+	"preprocesseur.h"
+	"preprocesseur.h"
+
+1528211177 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Etudiant.cpp
+	"preprocesseur.h"
+	"Etudiant.h"
+
+1528027019 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/main.cpp
+	"preprocesseur.h"
+	"preprocesseur.h"
+	"preprocesseur.h"
+
+1528189935 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Notes.cpp
+	"preprocesseur.h"
+
+1527935775 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/structure.cpp
+	"preprocesseur.h"
+	"preprocesseur.h"
+	"preprocesseur.h"
+
+1528219205 e:\jord\mini-projet\program c etc++\tp204studentmanagement\matiere.h
+
+1528243302 e:\jord\mini-projet\program c etc++\tp204studentmanagement\notes.h
+
+1528012410 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Matiere.h
+
+1528188130 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Notes.h
+
+1528113404 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Matiere.cpp
+	"preprocesseur.h"
+
+1528250283 source:e:\jord\mini-projet\program c etc++\tp204studentmanagement\matiere.cpp
+	"preprocesseur.h"
+
+1528339273 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Classe.cpp
+	"preprocesseur.h"
+
+1528248789 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/preprocesseur.h
+	<iostream>
+	<string>
+	"helper.h"
+	"Departement.h"
+	"Classe.h"
+	"Etudiant.h"
+	"Matiere.h"
+	"Notes.h"
+	<cstdlib>
+	<fstream>
+
+1528245574 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/helper.h
+	"Classe.h"
+	"Etudiant.h"
+	"Matiere.h"
+	"Notes.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1528239822 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Classe.h
+	"Etudiant.h"
+
+1528239102 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Etudiant.h
+
+1528215605 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Matiere.h
+
+1528239702 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Notes.h
+
+1528444852 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Departement.h
+	"fstream"
+
+1528340663 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Departement.cpp
+	"preprocesseur.h"
+
+1528239144 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Etudiant.cpp
+	"preprocesseur.h"
+	"Etudiant.h"
+
+1528340701 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/main.cpp
+	"preprocesseur.h"
+
+1528246683 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Matiere.cpp
+	"preprocesseur.h"
+
+1528239692 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/Notes.cpp
+	"preprocesseur.h"
+
+1528340110 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/tp204studentmanagement/structure.cpp
+	"preprocesseur.h"
+	<sstream>
+
